@@ -2,7 +2,7 @@
 
 🎓 **Third-year Electronics and Telecommunications Engineering student at Jadavpur University, Kolkata**
 
-💻 **Tech Enthusiast | Digital Electronics & Robotics Learner | Aspiring Technologist**
+💻 **Tech Enthusiast | Digital Electronics & Digital Signal Processing | Aspiring Technologist**
 
 ---
 
