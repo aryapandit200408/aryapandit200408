@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Arya Pandit! 👋
 
-<!--
-**aryapandit200408/aryapandit200408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Third-year Electronics and Telecommunications Engineering student at Jadavpur University, Kolkata**
 
-Here are some ideas to get you started:
+💻 **Tech Enthusiast | Digital Electronics & Robotics Learner | Aspiring Technologist**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+
+- **Programming Languages:** C, C++, Python, Verilog, System Verilog
+- **Hardware & Digital Electronics:** Vivado, FPGA, RTL Design
+- **Scripting & Automation:** Currently learning **Tcl**
+
+
+---
+
+## 📬 Let's Connect
+
+- **Email:** [arya.pandit@example.com](mailto:aryapandit200408@gmail.com)
+- **GitHub:** [github.com/your_username](https://github.com/aryapandit200408)
+- **LinkedIn:** [linkedin.com/in/arya-pandit](https://www.linkedin.com/in/arya-pandit-146023250/)
+- 
+Feel free to reach out for collaborations, brainstorming, or tech talks!
