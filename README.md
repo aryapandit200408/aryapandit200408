@@ -20,5 +20,5 @@
 - **Email:** [arya.pandit@example.com](mailto:aryapandit200408@gmail.com)
 - **GitHub:** [github.com/your_username](https://github.com/aryapandit200408)
 - **LinkedIn:** [linkedin.com/in/arya-pandit](https://www.linkedin.com/in/arya-pandit-146023250/)
-- 
+
 Feel free to reach out for collaborations, brainstorming, or tech talks!
